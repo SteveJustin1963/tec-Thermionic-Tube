@@ -17,5 +17,6 @@ tec1 using and testing thermionic tubes or thermionic valves
 - And then, of course, there are audio amplifiers, because they sound less harsh if overdriven. (Softer clipping).
 - electron microscopes,
 - older TV or CRO (cathode ray oscilloscope) set that used a Cathode Ray Tube,   https://www.quora.com/What-devices-still-use-vacuum-tubes
+- Two electrode Fleming thermionic valve
 - 
 
