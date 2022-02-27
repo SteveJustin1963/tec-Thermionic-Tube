@@ -15,7 +15,7 @@ tec1 using and testing thermionic tubes or thermionic valves
 - Medical imaging such as x-rays and computer tomography (x-ray tubes), magnetic resonance imaging (MRI; tetrodes and triodes). Radiation therapy might use x-ray tubes
 - RF generators in fusion research and particle accelerators (triodes, tetrodes, klystrons, thyratrons, klystrodes)
 - And then, of course, there are audio amplifiers, because they sound less harsh if overdriven. (Softer clipping).
-- electron microscopes." https://www.quora.com/What-devices-still-use-vacuum-tubes
-- older TV or CRO (cathode ray oscilloscope) set that used a Cathode Ray Tube
+- electron microscopes,
+- older TV or CRO (cathode ray oscilloscope) set that used a Cathode Ray Tube,   https://www.quora.com/What-devices-still-use-vacuum-tubes
 - 
 
