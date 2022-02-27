@@ -1,4 +1,4 @@
-# tec-thermionic-tube
+# tec-Thermionic-Tube
 tec1 using and testing thermionic tubes or thermionic valves
 - harmonic tests
 - distortion tests
