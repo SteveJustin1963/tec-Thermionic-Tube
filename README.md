@@ -1,5 +1,6 @@
 # tec-Thermionic-Tube
 tec1 using and testing thermionic tubes or thermionic valves
+- Open or shorted filaments can be detected using a multimeter
 - harmonic tests
 - distortion tests
 - and many more
